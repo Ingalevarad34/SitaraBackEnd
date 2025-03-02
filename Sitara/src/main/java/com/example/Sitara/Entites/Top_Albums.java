@@ -1,61 +1,55 @@
 package com.example.Sitara.Entites;
 
+
+import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
 
 @Entity
-public class Weekly_Top_Songs {
+public class Top_Albums {
+	
 	@Id
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
 	private int musicId;
-	private String musicName;
+	private String albumName;
 	private String artistName;
 	private String imageUrl;
-	private String audioUrl;
-
-
+	@Column(columnDefinition = "TEXT")
+	private String albumSongs;
+	
 	public int getMusicId() {
 		return musicId;
 	}
-
 	public void setMusicId(int musicId) {
 		this.musicId = musicId;
 	}
-
-	public String getMusicName() {
-		return musicName;
+	public String getAlbumName() {
+		return albumName;
 	}
-
-	public void setMusicName(String musicName) {
-		this.musicName = musicName;
+	public void setAlbumName(String albumName) {
+		this.albumName = albumName;
 	}
-
 	public String getArtistName() {
 		return artistName;
 	}
-
 	public void setArtistName(String artistName) {
 		this.artistName = artistName;
 	}
-
 	public String getImageUrl() {
 		return imageUrl;
 	}
-
 	public void setImageUrl(String imageUrl) {
 		this.imageUrl = imageUrl;
 	}
-
-	public String getAudioUrl() {
-		return audioUrl;
+	public String getAlbumSongs() {
+		return albumSongs;
 	}
-
-	public void setAudioUrl(String audioUrl) {
-		this.audioUrl = audioUrl;
+	public void setAlbumSongs(String albumSongs) {
+		this.albumSongs = albumSongs;
 	}
+	
+	
 
 }
-
-

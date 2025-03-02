@@ -8,6 +8,7 @@ import com.example.Sitara.repositories.Weekly_Top_SongsRepository;
 
 @Service
 public class Weekly_Top_SongsServiceImple implements Weekly_Top_SongsServices {
+	
 	@Autowired
 	Weekly_Top_SongsRepository obj;
 	

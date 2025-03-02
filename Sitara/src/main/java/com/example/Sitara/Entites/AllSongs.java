@@ -1,20 +1,21 @@
 package com.example.Sitara.Entites;
 
+import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
 
 @Entity
-public class Weekly_Top_Songs {
+public class AllSongs {
 	@Id
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
 	private int musicId;
 	private String musicName;
 	private String artistName;
 	private String imageUrl;
+	@Column(columnDefinition = "TEXT")
 	private String audioUrl;
-
 
 	public int getMusicId() {
 		return musicId;
@@ -57,5 +58,3 @@ public class Weekly_Top_Songs {
 	}
 
 }
-
-

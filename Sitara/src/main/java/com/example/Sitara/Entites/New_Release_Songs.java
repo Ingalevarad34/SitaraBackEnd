@@ -6,7 +6,8 @@ import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
 
 @Entity
-public class Weekly_Top_Songs {
+public class New_Release_Songs {
+	
 	@Id
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
 	private int musicId;
@@ -14,48 +15,40 @@ public class Weekly_Top_Songs {
 	private String artistName;
 	private String imageUrl;
 	private String audioUrl;
-
-
+	
 	public int getMusicId() {
 		return musicId;
 	}
-
 	public void setMusicId(int musicId) {
 		this.musicId = musicId;
 	}
-
 	public String getMusicName() {
 		return musicName;
 	}
-
 	public void setMusicName(String musicName) {
 		this.musicName = musicName;
 	}
-
 	public String getArtistName() {
 		return artistName;
 	}
-
 	public void setArtistName(String artistName) {
 		this.artistName = artistName;
 	}
-
 	public String getImageUrl() {
 		return imageUrl;
 	}
-
 	public void setImageUrl(String imageUrl) {
 		this.imageUrl = imageUrl;
 	}
-
 	public String getAudioUrl() {
 		return audioUrl;
 	}
-
 	public void setAudioUrl(String audioUrl) {
 		this.audioUrl = audioUrl;
 	}
+	
+
+	
+	
 
 }
-
-

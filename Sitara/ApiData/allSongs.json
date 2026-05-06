@@ -1,0 +1,93 @@
+[
+    {
+        "artistName": "Imagine Dragons",
+        "audioUrl": "https://res.cloudinary.com/do9gi6mu8/video/upload/v1737431109/Imagine_Dragons_-_Whatever_It_Takes__Official_Music_Video__256k_ecz1jc.mp3",
+        "imageUrl": "https://res-console.cloudinary.com/do9gi6mu8/thumbnails/v1/image/upload/v1775902928/d2hhdGVldmVyLWl0LXRha2VzX2RmODV1OA==/drilldown",
+        "musicId": 1,
+        "musicName": "Whatever It Takes"
+    },
+    {
+        "artistName": "Måneskin",
+        "audioUrl": "https://res.cloudinary.com/do9gi6mu8/video/upload/v1737431109/Imagine_Dragons_-_Whatever_It_Takes__Official_Music_Video__256k_ecz1jc.mp3",
+        "imageUrl": "https://res-console.cloudinary.com/do9gi6mu8/thumbnails/v1/image/upload/v1775902917/bG9ubGlzdF92MXh1bHo=/drilldown",
+        "musicId": 2,
+        "musicName": "The Loneliest"
+    },
+    {
+        "artistName": "Adele",
+        "audioUrl": "https://res.cloudinary.com/do9gi6mu8/video/upload/v1737431109/Imagine_Dragons_-_Whatever_It_Takes__Official_Music_Video__256k_ecz1jc.mp3",
+        "imageUrl": "https://res-console.cloudinary.com/do9gi6mu8/thumbnails/v1/image/upload/v1775902923/c2t5ZmFsbF9hcWt5YWI=/drilldown",
+        "musicId": 3,
+        "musicName": "Skyfall"
+    },
+    {
+        "artistName": "The Neighbourhood",
+        "audioUrl": "https://res.cloudinary.com/do9gi6mu8/video/upload/v1737434872/The_Neighbourhood_-_Softcore__Official_Audio__128k_tg1dkz.mp3",
+        "imageUrl": "https://res-console.cloudinary.com/do9gi6mu8/thumbnails/v1/image/upload/v1775902950/c29mdGNvcmVfbnZ6YW5m/drilldown",
+        "musicId": 4,
+        "musicName": "Softcore"
+    },
+    {
+        "artistName": "Eminem",
+        "audioUrl": "https://res.cloudinary.com/do9gi6mu8/video/upload/v1737435371/Eminem_-_Superman__Clean_Version__ft._Dina_Rae_128k_zxic3b.mp3",
+        "imageUrl": "https://res-console.cloudinary.com/do9gi6mu8/thumbnails/v1/image/upload/v1775902907/c3VwZXJtYV9qOWN5a2I=/drilldown",
+        "musicId": 5,
+        "musicName": "Superman"
+    },
+    {
+        "artistName": "Pinnak",
+        "audioUrl": "https://res.cloudinary.com/do9gi6mu8/video/upload/v1737791599/Pinnak_-_SAMBATA_l_OFFICIAL_VIDEO_l__Prod_By._KHAKIEE___128k_abv9oc.mp3",
+        "imageUrl": "https://res.cloudinary.com/do9gi6mu8/image/upload/v1776074988/Pinnak_fpqxj3.jpg",
+        "musicId": 6,
+        "musicName": "SAMBATA"
+    },
+    {
+        "artistName": "Sonu Nigam",
+        "audioUrl": "https://res.cloudinary.com/do9gi6mu8/video/upload/v1737819068/Chal_Kudiye__From__Jaani_Dushman___128k_g9frxs.mp4",
+        "imageUrl": "https://res.cloudinary.com/do9gi6mu8/image/upload/v1776075203/chal_Chudiya_kcpzjw.jpg",
+        "musicId": 7,
+        "musicName": "Chal Kudiye"
+    },
+    {
+        "artistName": "Lady Gaga, Bruno Mars",
+        "audioUrl": "https://res.cloudinary.com/do9gi6mu8/video/upload/v1738062929/Lady_Gaga__Bruno_Mars_-_Die_With_A_Smile__Official_Music_Video__128k_m0v4v2.mp4",
+        "imageUrl": "https://res.cloudinary.com/do9gi6mu8/image/upload/v1778048579/ladygaga_zsqbyb.jpg",
+        "musicId": 8,
+        "musicName": "Die With A Smile"
+    },
+    {
+        "artistName": "Billie Eilish",
+        "audioUrl": "https://res.cloudinary.com/do9gi6mu8/video/upload/v1738062855/Billie_Eilish_-_BIRDS_OF_A_FEATHER__Official_Music_Video__128k_bfksgl.mp4",
+        "imageUrl": "https://res.cloudinary.com/do9gi6mu8/image/upload/v1778048579/billi_pi7bul.jpg",
+        "musicId": 9,
+        "musicName": "BIRDS OF A FEATHER"
+    },
+    {
+        "artistName": "xxanteria",
+        "audioUrl": "https://res.cloudinary.com/do9gi6mu8/video/upload/v1737478646/BAIXO__slowed__128k_1_kwbhpd.mp4",
+        "imageUrl": "https://res.cloudinary.com/do9gi6mu8/image/upload/v1778048579/baxio_ezot6g.jpg",
+        "musicId": 10,
+        "musicName": "BAIXO"
+    },
+    {
+        "artistName": "Alan Walker, Putri Ariani, Peder Elias",
+        "audioUrl": "https://res.cloudinary.com/do9gi6mu8/video/upload/v1737478248/Who_I_Am_128k_1_fedvfl.mp4",
+        "imageUrl": "https://res.cloudinary.com/do9gi6mu8/image/upload/v1778048579/wedontcare_fw8n6l.jpg",
+        "musicId": 11,
+        "musicName": "Who I Am"
+    },
+    {
+        "artistName": "Alan Walker, Putri Ariani, Peder Elias",
+        "audioUrl": "https://res.cloudinary.com/do9gi6mu8/video/upload/v1737478248/Who_I_Am_128k_1_fedvfl.mp4",
+        "imageUrl": "https://res.cloudinary.com/do9gi6mu8/image/upload/v1778048579/whoami_wtowe1.jpg",
+        "musicId": 12,
+        "musicName": "Who I Am"
+    },
+    {
+        "artistName": "Akon",
+        "audioUrl": "https://res.cloudinary.com/do9gi6mu8/video/upload/v1737477935/we_dont_care__128k_1_un9vui.mp4",
+        "imageUrl": "https://res.cloudinary.com/do9gi6mu8/image/upload/v1778048578/onetime_m3bkw8.jpg",
+        "musicId": 13,
+        "musicName": "We Don't Care"
+    }
+]

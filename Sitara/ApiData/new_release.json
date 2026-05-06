@@ -1,0 +1,44 @@
+[
+    {
+        "artistName": "Lady Gaga, Bruno Mars",
+        "audioUrl": "https://res.cloudinary.com/do9gi6mu8/video/upload/v1738062929/Lady_Gaga__Bruno_Mars_-_Die_With_A_Smile__Official_Music_Video__128k_m0v4v2.mp4",
+        "imageUrl": "https://res.cloudinary.com/do9gi6mu8/image/upload/v1778048579/ladygaga_zsqbyb.jpg",
+        "musicId": 1,
+        "musicName": "Die With A Smile"
+    },
+    {
+        "artistName": "Billie Eilish",
+        "audioUrl": "https://res.cloudinary.com/do9gi6mu8/video/upload/v1738062855/Billie_Eilish_-_BIRDS_OF_A_FEATHER__Official_Music_Video__128k_bfksgl.mp4",
+        "imageUrl": "https://res.cloudinary.com/do9gi6mu8/image/upload/v1778048579/billi_pi7bul.jpg",
+        "musicId": 2,
+        "musicName": "BIRDS OF A FEATHER"
+    },
+    {
+        "artistName": "xxanteria",
+        "audioUrl": "https://res.cloudinary.com/do9gi6mu8/video/upload/v1737478646/BAIXO__slowed__128k_1_kwbhpd.mp4",
+        "imageUrl": "https://res.cloudinary.com/do9gi6mu8/image/upload/v1778048579/baxio_ezot6g.jpg",
+        "musicId": 3,
+        "musicName": "BAIXO"
+    },
+    {
+        "artistName": "Alan Walker, Putri Ariani, Peder Elias",
+        "audioUrl": "https://res.cloudinary.com/do9gi6mu8/video/upload/v1737478248/Who_I_Am_128k_1_fedvfl.mp4",
+        "imageUrl": "https://res.cloudinary.com/do9gi6mu8/image/upload/v1778048579/wedontcare_fw8n6l.jpg",
+        "musicId": 4,
+        "musicName": "Who I Am"
+    },
+    {
+        "artistName": "Alan Walker, Putri Ariani, Peder Elias",
+        "audioUrl": "https://res.cloudinary.com/do9gi6mu8/video/upload/v1737478248/Who_I_Am_128k_1_fedvfl.mp4",
+        "imageUrl": "https://res.cloudinary.com/do9gi6mu8/image/upload/v1778048579/whoami_wtowe1.jpg",
+        "musicId": 5,
+        "musicName": "Who I Am"
+    },
+    {
+        "artistName": "Akon",
+        "audioUrl": "https://res.cloudinary.com/do9gi6mu8/video/upload/v1737477935/we_dont_care__128k_1_un9vui.mp4",
+        "imageUrl": "https://res.cloudinary.com/do9gi6mu8/image/upload/v1778048578/onetime_m3bkw8.jpg",
+        "musicId": 6,
+        "musicName": "We Don't Care"
+    }
+]

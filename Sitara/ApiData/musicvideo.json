@@ -1,0 +1,23 @@
+[
+    {
+        "artistName": "Shreya Ghoshal",
+        "imageUrl": "https://res-console.cloudinary.com/do9gi6mu8/thumbnails/v1/image/upload/v1778056761/cHVzaHBhXzJfaWlld3d3/drilldown",
+        "musicId": 1,
+        "musicName": "pushpa",
+        "videoUrl": "https://res.cloudinary.com/do9gi6mu8/video/upload/v1738135913/pushpa2_jmmr79.mp4"
+    },
+    {
+        "artistName": "Dua Lipa",
+        "imageUrl": "https://res-console.cloudinary.com/do9gi6mu8/thumbnails/v1/image/upload/v1776074378/SG90dGVyLXRoYW4taGVsbF9maWZ0czU=/drilldown",
+        "musicId": 2,
+        "musicName": "Garden",
+        "videoUrl": "https://res.cloudinary.com/do9gi6mu8/video/upload/v1738135707/lock_brtch1.mp4"
+    },
+    {
+        "artistName": "Justin Bieber",
+        "imageUrl": "https://res-console.cloudinary.com/do9gi6mu8/thumbnails/v1/image/upload/v1776074562/TG92ZV9Zb3Vyc2VsZl9uNnlnd3E=/drilldown",
+        "musicId": 3,
+        "musicName": "Love Yourself",
+        "videoUrl": "https://res.cloudinary.com/do9gi6mu8/video/upload/v1737992861/Sitara/VideoFiles/syaym1vin70a2nzkn7a2.mp4"
+    }
+]
